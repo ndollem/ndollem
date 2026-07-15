@@ -1,67 +1,69 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Ndollem",
+    "username": "ndollem",
+    "headline": "AI Agent Engineer & Automation Builder",
+    "affiliation": "Kapanlagi Youniverse",
+    "location": "Malang, Indonesia",
+    "status": "Building AI agent systems",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I build AI agent systems that connect real tools and data to natural conversation - from WhatsApp-based automation platforms to MCP servers that give LLM clients live access to external data.",
+      "My recent work spans a WhatsApp-based automation platform for Kapanlagi Youniverse and an MCP server that gives AI clients live access to Indonesian news feeds."
     ]
   },
   "research": {
     "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "direction": "Reliable agent orchestration",
+    "themes": "MCP / tool integration / automation",
+    "narrative": "I focus on connecting large language models to real systems through the Model Context Protocol and agent orchestration layers like Hermes - building tools, data connectors, and automations that let agents act reliably inside real business workflows."
   },
   "focus": [
     {
       "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "description": "Building reliable agent workflows that connect LLMs to real tools and data."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "MCP Servers",
+      "description": "Designing Model Context Protocol servers that expose external data and tools to LLM clients."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Automation",
+      "description": "Turning natural conversation into automated actions across business systems."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "KLY Automation",
+      "url": "https://github.com/ndollem/kly-ai-automation-platform",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "WhatsApp AI automation for internal teams",
+      "summary": "WhatsApp-based AI automation platform for Kapanlagi Youniverse, built on the open-source Hermes Agent orchestrator with MCP connectors, business-use-case agents, and proactive intelligence alerts.",
+      "heroLabel": "WhatsApp AI automation"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "RSS MCP Server",
+      "url": "https://github.com/ndollem/mcp-rss",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "MCP server for Indonesian news feeds",
+      "summary": "HTTP-based MCP server in Python/FastAPI that serves ten Indonesian news RSS feeds as tools for MCP clients like Hermes CLI and Cursor, deployable to Vercel as a serverless function.",
+      "heroLabel": "MCP news server"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "FastAPI",
+    "Node.js",
+    "MCP",
+    "WhatsApp API",
+    "Vercel",
+    "Pytest"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "ndollem",
+      "url": "https://github.com/ndollem",
       "logo": "github",
       "color": "0B1220"
     }
@@ -71,7 +73,7 @@
     "limit": 6
   },
   "appearance": {
-    "palette": "signal"
+    "palette": "solar"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building agents that connect language models to the real world."
 }
