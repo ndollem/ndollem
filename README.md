@@ -45,12 +45,12 @@ I focus on connecting large language models to real systems through the Model Co
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Jul 29, 2026: pushed 1 commit to [ndollem/venturo-cc-sessions](https://github.com/ndollem/venturo-cc-sessions).
-- Jul 27, 2026: merged pull request [#16](https://github.com/venturo-id/venturo-claude) in [venturo-id/venturo-claude](https://github.com/venturo-id/venturo-claude).
-- Jul 27, 2026: pushed 1 commit to [venturo-id/venturo-claude](https://github.com/venturo-id/venturo-claude).
-- Jul 25, 2026: opened pull request [#16](https://github.com/venturo-id/venturo-claude) in [venturo-id/venturo-claude](https://github.com/venturo-id/venturo-claude).
-- Jul 25, 2026: created a branch in [venturo-id/venturo-claude](https://github.com/venturo-id/venturo-claude).
-- Jul 25, 2026: closed pull request [#15](https://github.com/venturo-id/venturo-claude) in [venturo-id/venturo-claude](https://github.com/venturo-id/venturo-claude).
+- Jul 31, 2026: opened pull request [#3](https://github.com/ndollem/venturo-benefit-survey) in [ndollem/venturo-benefit-survey](https://github.com/ndollem/venturo-benefit-survey).
+- Jul 31, 2026: opened pull request [#2](https://github.com/ndollem/venturo-benefit-survey) in [ndollem/venturo-benefit-survey](https://github.com/ndollem/venturo-benefit-survey).
+- Jul 31, 2026: opened pull request [#1](https://github.com/ndollem/venturo-benefit-survey) in [ndollem/venturo-benefit-survey](https://github.com/ndollem/venturo-benefit-survey).
+- Jul 31, 2026: created a branch in [ndollem/venturo-benefit-survey](https://github.com/ndollem/venturo-benefit-survey).
+- Jul 31, 2026: pushed 1 commit to [ndollem/liputan6-gemini-integration-prototype](https://github.com/ndollem/liputan6-gemini-integration-prototype).
+- Jul 31, 2026: created a branch in [ndollem/liputan6-gemini-integration-prototype](https://github.com/ndollem/liputan6-gemini-integration-prototype).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
