@@ -45,12 +45,12 @@ I focus on connecting large language models to real systems through the Model Co
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Aug 2, 2026: pushed 1 commit to [ndollem/venturo-cc-sessions](https://github.com/ndollem/venturo-cc-sessions).
 - Aug 1, 2026: pushed 1 commit to [ndollem/venturo-benefit-survey](https://github.com/ndollem/venturo-benefit-survey).
 - Jul 31, 2026: opened pull request [#3](https://github.com/ndollem/venturo-benefit-survey) in [ndollem/venturo-benefit-survey](https://github.com/ndollem/venturo-benefit-survey).
 - Jul 31, 2026: opened pull request [#2](https://github.com/ndollem/venturo-benefit-survey) in [ndollem/venturo-benefit-survey](https://github.com/ndollem/venturo-benefit-survey).
 - Jul 31, 2026: opened pull request [#1](https://github.com/ndollem/venturo-benefit-survey) in [ndollem/venturo-benefit-survey](https://github.com/ndollem/venturo-benefit-survey).
 - Jul 31, 2026: created a branch in [ndollem/venturo-benefit-survey](https://github.com/ndollem/venturo-benefit-survey).
-- Jul 31, 2026: pushed 1 commit to [ndollem/liputan6-gemini-integration-prototype](https://github.com/ndollem/liputan6-gemini-integration-prototype).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
