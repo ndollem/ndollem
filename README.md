@@ -45,12 +45,12 @@ I focus on connecting large language models to real systems through the Model Co
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Sep 1, 2026: created a branch in [ndollem/ndollem](https://github.com/ndollem/ndollem).
+- Aug 31, 2026: pushed 1 commit to [ndollem/venturo-cc-sessions](https://github.com/ndollem/venturo-cc-sessions).
 - Aug 26, 2026: pushed 1 commit to [ndollem/venturo-cc-sessions](https://github.com/ndollem/venturo-cc-sessions).
 - Aug 20, 2026: pushed 1 commit to [ndollem/venturo-cc-sessions](https://github.com/ndollem/venturo-cc-sessions).
 - Aug 17, 2026: created a branch in [venturo-id/venturo-claude](https://github.com/venturo-id/venturo-claude).
 - Aug 17, 2026: opened pull request [#19](https://github.com/venturo-id/venturo-claude) in [venturo-id/venturo-claude](https://github.com/venturo-id/venturo-claude).
-- Aug 13, 2026: pushed 1 commit to [ndollem/venturo-benefit-survey](https://github.com/ndollem/venturo-benefit-survey).
-- Aug 12, 2026: pushed 1 commit to [ndollem/venturo-cc-sessions](https://github.com/ndollem/venturo-cc-sessions).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
