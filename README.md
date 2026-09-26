@@ -48,7 +48,6 @@ I focus on connecting large language models to real systems through the Model Co
 - Sep 5, 2026: created a branch in [ndollem/virtual-tour](https://github.com/ndollem/virtual-tour).
 - Sep 1, 2026: created a branch in [ndollem/ndollem](https://github.com/ndollem/ndollem).
 - Aug 31, 2026: pushed 1 commit to [ndollem/venturo-cc-sessions](https://github.com/ndollem/venturo-cc-sessions).
-- Aug 26, 2026: pushed 1 commit to [ndollem/venturo-cc-sessions](https://github.com/ndollem/venturo-cc-sessions).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
