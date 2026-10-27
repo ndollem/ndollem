@@ -45,7 +45,9 @@ I focus on connecting large language models to real systems through the Model Co
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-_No recent public activity was found._
+- Oct 27, 2026: opened pull request [#4](https://github.com/venturo-id/venturo-skeleton-go) in [venturo-id/venturo-skeleton-go](https://github.com/venturo-id/venturo-skeleton-go).
+- Oct 27, 2026: merged pull request [#20](https://github.com/venturo-id/venturo-claude) in [venturo-id/venturo-claude](https://github.com/venturo-id/venturo-claude).
+- Oct 27, 2026: opened pull request [#20](https://github.com/venturo-id/venturo-claude) in [venturo-id/venturo-claude](https://github.com/venturo-id/venturo-claude).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
